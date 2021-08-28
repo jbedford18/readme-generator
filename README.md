@@ -1,4 +1,4 @@
-# pet
+# ReadMe Generator
 ## Table of Contents:
 1. [Description](#description)
 2. [Installation](#install)
@@ -7,15 +7,15 @@
 5. [License](#license)
 6. [Questions](#questions)
 ## Description
-pitp
+A tool to use to create quality read me's for projects made!
 ## Installation
-all
+VS studios, user must have node.js and npm inquirer as well
 ## Usage
-bo
+To quickly produce a read me 
 ## Credit
-am
+jbedford18
 ## License
-![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Questions
 Any questions? Contact me by email!
-* Email: ao@ol.com
+* Email: jbedford@gmail.com
