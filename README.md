@@ -11,7 +11,7 @@ A tool to use to create quality read me's for projects made!
 ## Installation
 VS studios, user must have node.js and npm inquirer as well
 ## Usage
-To quickly produce a read me 
+To quickly produce a read me by using the command line
 ## Credit
 jbedford18
 ## License
